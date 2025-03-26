@@ -12,6 +12,7 @@ import Dashboard from "./pages/Dashboard";
 import RecruiterSearch from "./pages/RecruiterSearch";
 import NotFound from "./pages/NotFound";
 
+
 const queryClient = new QueryClient();
 
 const App = () => (
